@@ -1,0 +1,1 @@
+# Swaybar Status Manager
